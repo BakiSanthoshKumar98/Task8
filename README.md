@@ -7,7 +7,7 @@ Based on the dashboard provided, here are three insights:
 3.Among all sub-categories, Phones brought in the most revenue, with Chairs coming in second.
 
 
-# 📊 Superstore Sales Dashboard (Power BI + Python)
+# 📊 Superstore Sales Dashboard (Power BI )
 
 ## 🚀 Objective
 
